@@ -1,3 +1,9 @@
+To test various VM Placement algorithms go to the VM Allocation Policy Migration Abstract class in the Power package.
+Uncomment the findHostforVm() method of the desired Placement policy and comment all others to run.
+
+Modified overload detection and Vm selection algorithms are also implemened within the power package.
+
+----------------------------
 Table of Contents
 -----------------
 
